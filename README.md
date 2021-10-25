@@ -11,5 +11,7 @@ La versión en español se basa en un corpus de palabras disponible en [GitHub](
 # Acrónimos en inglés
 La versión en inglés permite obtener acrónimos automticamente. Consulta el notebook [acronyms.ipynb](https://nbviewer.org/github/hibernator11/notebook-acronym/blob/main/acronyms.ipynb).
 
+<img src="imgs/acronyms.png">
+
 # Referencias
 Código desarrollado por la [Biblioteca Virtual Miguel de Cervantes](http://www.cervantesvirtual.com/).
